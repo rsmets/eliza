@@ -1,5 +1,6 @@
 {
   "name": "trump",
+  "id": "trump",
   "clients": [],
   "modelProvider": "openai",
   "settings": {
